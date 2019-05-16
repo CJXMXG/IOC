@@ -1,0 +1,7 @@
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\IOC\bin\Debug\IOC.exe.config
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\IOC\bin\Debug\IOC.exe
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\IOC\bin\Debug\IOC.pdb
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\IOC\obj\Debug\IOC.csprojAssemblyReference.cache
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\IOC\obj\Debug\IOC.csproj.CoreCompileInputs.cache
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\IOC\obj\Debug\IOC.exe
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\IOC\obj\Debug\IOC.pdb

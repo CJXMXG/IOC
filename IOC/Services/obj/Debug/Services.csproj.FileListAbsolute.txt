@@ -1,0 +1,12 @@
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\Services\bin\Debug\Services.dll
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\Services\bin\Debug\Services.pdb
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\Services\obj\Debug\Services.dll
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\Services\obj\Debug\Services.pdb
+E:\WorkSpace\YearProject\2019\2019Demo\IOC\Services\obj\Debug\Services.csprojAssemblyReference.cache
+E:\Git\IOC\Services\bin\Debug\Services.dll
+E:\Git\IOC\Services\bin\Debug\Services.pdb
+E:\Git\IOC\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\Git\IOC\Services\obj\Debug\Services.dll
+E:\Git\IOC\Services\obj\Debug\Services.pdb
+E:\Git\IOC\Services\obj\Debug\Services.csprojAssemblyReference.cache
